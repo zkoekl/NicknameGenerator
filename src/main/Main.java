@@ -3,6 +3,7 @@ package main;
 public class Main {
 
     public static void main(String[] args) {
+        //I'm here
         System.out.println("Hey, ");
         GenerateRandom10();
         System.out.print(Generator.TheChosenOne(3, 7, 7));
